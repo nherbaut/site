@@ -1,0 +1,22 @@
+---
+baseurl: "http://labri.fr/~nherbaut"
+languageCode: "en-us"
+title: "Nicolas Herbaut"
+params:
+  Description: "Software is the future of network"
+  
+menu:
+  main:
+      - Name: "research"
+        Weight: -110
+        Url: "research"
+      - Name: "teaching"
+        Weight: -110
+        Url: "teaching"      
+      - Name: "engineering"
+        Weight: -110
+        Url: "blog"
+
+  
+
+
