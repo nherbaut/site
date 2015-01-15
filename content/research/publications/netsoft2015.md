@@ -11,7 +11,7 @@ Here's a paper submited for [IEEE NetSoft 2015 conference](http://sites.ieee.org
 
 # Source Code#
 
-Source code is freely available [on my github account](https://githib.com/nherbaut).
+Source code is freely available [on my github account](https://github.com/nherbaut).
 
 * [OSGi bundle and Server-side code](https://github.com/nherbaut/vhg-adapted-video)
 * [Video Transcoding/Caching code](https://github.com/nherbaut/vhg-adaptation-worker)
