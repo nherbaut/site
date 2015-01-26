@@ -1,13 +1,13 @@
 +++
 date = "2015-01-15T17:22:29+01:00"
-draft = true
-title = "netsoft2015"
+draft = false
+title = "Migrating to a NFV-based Home Gateway, an Evolutionary Approach"
 
 +++
 
 # Paper #
 
-Here's a paper submited for [IEEE NetSoft 2015 conference](http://sites.ieee.org/netsoft/).
+I submited a paper for [IEEE NetSoft 2015 conference](http://sites.ieee.org/netsoft/). If it is accepted, [ieeexplore](http://ieeexplore.ieee.org) will be linked here
 
 # Source Code#
 
